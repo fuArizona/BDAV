@@ -4,4 +4,4 @@
 - Python
 - MySQL
 
-Credit: BXiaoqin Fu
+Credit: Dr. Xiaoqin Fu
